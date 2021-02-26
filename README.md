@@ -125,7 +125,3 @@ Desde la carpeta raiz del proyecto ejecuta: `pytest src/tests/`
 -   mike.olivera@rappi.com
 -   yascorve@rappi.com
 -   icabo@rappi.com
-
-## Licencia
-
-This project is property of Rappi.
